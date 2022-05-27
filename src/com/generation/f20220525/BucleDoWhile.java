@@ -30,7 +30,7 @@ public class BucleDoWhile {
             System.out.println("(0) salir \n (1) sumar \n (2) restar \n (3) multiplicar \n (4) dividir");
             opcion = sc.nextInt();
 
-        }while(opcion < 0 || opcion > 4);
+        }while(opcion < 0 || opcion > 5);
 
     }
 }
